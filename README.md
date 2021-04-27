@@ -1,6 +1,6 @@
 
 # Shubhayu Majumdar
-Shubhayu is a pro-coder
+Shubhayu loves buffet. >.<
 
 ## Installation
 
