@@ -1,6 +1,5 @@
 # Shubhayu Majumdar
-
-Foobar is a Python library for dealing with word pluralization.
+Shubhayu is a pro-coder
 
 ## Installation
 
