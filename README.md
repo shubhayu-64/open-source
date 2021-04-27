@@ -1,4 +1,3 @@
-
 # Shubhayu Majumdar
 Shubhayu loves buffet. >.<
 
