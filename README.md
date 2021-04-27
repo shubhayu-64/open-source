@@ -1,5 +1,6 @@
-# Food
-Whenever i see food my mind goes brrrrrrrrrrrrr
+
+# Shubhayu Majumdar
+Shubhayu is a pro-coder
 
 ## Installation
 
