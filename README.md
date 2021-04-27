@@ -1,29 +1,29 @@
-# HEMLO
-
-I THIS IS ME. ^_^
+# Shubhayu Majumdar
+Shubhayu loves buffet. >.<
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the tummy [pip](https://pip.pypa.io/en/stable/) to install food.
 
 ```bash
-pip install foobar
+pip install food
 ```
+hello 123 mic testing
 
 ## Usage
 
 ```python
 import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+foobar.pluralize('biriyani') # returns 'words'
+foobar.pluralize('chicken') # returns 'geese'
+foobar.singularize('mutton') # returns 'phenomenon'
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+foods are always welcome. For major changes, please offer me food first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please make sure make it spicy.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
